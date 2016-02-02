@@ -4,8 +4,8 @@
 
 > Build a html link from the selected text or the current page's title. For firefox for desktop and firefox for android.
 
-![menu](https://cloud.githubusercontent.com/assets/75448/12750359/08de0004-c9fa-11e5-86ee-fcbfd87ea70a.png)
-![build-link-html](https://cloud.githubusercontent.com/assets/75448/12750356/031a6ad6-c9fa-11e5-94b0-efe238b82e9f.png)
+![menu](https://cloud.githubusercontent.com/assets/75448/12756451/33b68ca2-ca17-11e5-8f69-4b1cb123df94.png)
+![build-link-html](https://cloud.githubusercontent.com/assets/75448/12756455/381c239c-ca17-11e5-89c0-8bdacd5a1fb0.png)
 
 
 ## Note
