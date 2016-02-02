@@ -34,8 +34,8 @@ pify(rimraf)(path.join('.git', 'shallow')).then(() =>
   // remove bin/* from xpi package
   pify(rimraf)(path.join(target, 'bin'))
 ).then(() =>
-  // remove exclude/* from xpi package
-  pify(rimraf)(path.join(target, 'exclude'))
+  // remove exclude-addon/* from xpi package
+  pify(rimraf)(path.join(target, 'exclude-addon'))
 ).catch((error) => {
   console.error(error);
   process.exit(1);
