@@ -8,7 +8,7 @@ if (isFirefoxAndroid) {
   let menuId = 0;
   exports.main = (options, callback) => {// eslint-disable-line no-unused-vars
     menuId = getWindow().NativeWindow.menu.add({
-      name: 'Build Link Markdown',
+      name: 'Build Link Html',
       callback: handleClick,
     });
   };
@@ -18,7 +18,7 @@ if (isFirefoxAndroid) {
 } else {
   const { ActionButton } = require('sdk/ui/button/action');
   ActionButton({// eslint-disable-line new-cap
-    id: 'build-link-markdown',
+    id: 'build-link-html',
     label: 'Md',
     icon: {
       16: './filter3-16.png',

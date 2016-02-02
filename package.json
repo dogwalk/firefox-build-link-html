@@ -1,6 +1,6 @@
 {
-  "name": "firefox-build-link-markdown",
-  "description": "Build a markdown link from the selected text or the current page's title.",
+  "name": "firefox-build-link-html",
+  "description": "Build a html link from the selected text or the current page's title.",
   "version": "1.0.0",
   "author": {
     "name": "sanemat",
@@ -37,7 +37,7 @@
   ],
   "license": "MIT",
   "main": "index.js",
-  "repository": "dogwalk/firefox-build-link-markdown",
+  "repository": "dogwalk/firefox-build-link-html",
   "scripts": {
     "build:addon": "npm run build:clean && npm run build:copy && npm run build:install && npm run build:xpi",
     "build:clean": "bin/build-clean.js",
@@ -57,5 +57,5 @@
     "test": "jpm test",
     "verify": "npm run lint && npm run test && npm run build:addon"
   },
-  "title": "Build Link Markdown"
+  "title": "Build Link Html"
 }
