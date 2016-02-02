@@ -1,3 +1,13 @@
+<a name="2.1.0"></a>
+# [2.1.0](https://github.com/dogwalk/firefox-build-link-html/compare/v2.0.0...v2.1.0) (2016-02-02)
+
+
+### Features
+
+* **copy:** html implementation ([d4799ff](https://github.com/dogwalk/firefox-build-link-html/commit/d4799ff))
+
+
+
 <a name="2.0.0"></a>
 # [2.0.0](https://github.com/dogwalk/firefox-build-link-html/compare/v1.0.0...v2.0.0) (2016-02-02)
 
