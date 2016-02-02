@@ -1,3 +1,9 @@
+<a name="2.0.0"></a>
+# [2.0.0](https://github.com/dogwalk/firefox-build-link-html/compare/v1.0.0...v2.0.0) (2016-02-02)
+
+* Fork from dogwalk/firefox-build-link-markdown
+
+
 <a name="1.0.0"></a>
 # [1.0.0](https://github.com/dogwalk/firefox-build-link-html/compare/v0.0.1...v1.0.0) (2016-02-02)
 
