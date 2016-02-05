@@ -34,7 +34,9 @@ function escape(input) {
 
 self.port.on('buildLinkHtml', () => {
   'use strict';
-  const selected = window.getSelection().toString();
+  /* global browserSelectedText:false */
+  // browser-selected-text https://www.npmjs.com/package/browser-selected-text
+  const selected = browserSelectedText();
   const title = window.document.title;
   const url = window.location.href;
   let result = '';
