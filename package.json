@@ -1,7 +1,7 @@
 {
   "name": "firefox-build-link-html",
   "description": "Build a html link from the selected text or the current page's title.",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "author": {
     "name": "sanemat",
     "email": "o.gata.ken@gmail.com",
