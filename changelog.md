@@ -1,3 +1,9 @@
+<a name="2.1.1"></a>
+## [2.1.1](https://github.com/dogwalk/firefox-build-link-html/compare/v2.1.0...v2.1.1) (2016-02-06)
+
+* Update dependencies.
+
+
 <a name="2.1.0"></a>
 # [2.1.0](https://github.com/dogwalk/firefox-build-link-html/compare/v2.0.0...v2.1.0) (2016-02-02)
 
