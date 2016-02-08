@@ -4,6 +4,8 @@
 
 > Build a html link from the selected text or the current page's title. For firefox for desktop and firefox for android.
 
+[Build Link Html :: Add-ons for Firefox](https://addons.mozilla.org/ja/firefox/addon/build-link-html/)
+
 ![menu](https://cloud.githubusercontent.com/assets/75448/12756451/33b68ca2-ca17-11e5-8f69-4b1cb123df94.png)
 ![build-link-html](https://cloud.githubusercontent.com/assets/75448/12756455/381c239c-ca17-11e5-89c0-8bdacd5a1fb0.png)
 
